@@ -90,7 +90,7 @@ textblob==0.18.0
 
 ## App Preview 📸
 
-[![CrushAI Preview](assets/gifmaker_me(1).gif)](https://github.com/johanjoseph29/AI-ChatBot/blob/main/assets/gifmaker_me%20(1).gif)
+![](https://github.com/johanjoseph29/AI-ChatBot/blob/main/assets/gifmaker_me%20(1).gif)
 
 ## Developer Profile 👤
 
