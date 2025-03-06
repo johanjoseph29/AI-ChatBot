@@ -90,7 +90,7 @@ textblob==0.18.0
 
 ## App Preview 📸
 
-![CrushAI Preview](assets/app_preview.gif)
+![CrushAI Preview](assets/gifmaker_me(1).gif)
 
 ## Developer Profile 👤
 
