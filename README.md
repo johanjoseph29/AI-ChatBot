@@ -15,7 +15,7 @@ CrushAI is a **GenAI-based Virtual Crush Chatbot** that lets users experience fu
 
 ## Tech Stack 🔥
 
-- **Frontend:** Flutter (Material UI)
+- **Frontend:** Flutter (Material UI - Web Only)
 - **Backend:** Python Flask API
 - **AI Model:** Gemini AI
 
@@ -48,11 +48,12 @@ Ai-ChatBot/
    ```yaml
    http: ^0.13.6
    google_generative_ai: ^0.3.0
+   provider: ^6.0.5
    ```
 
-3. Run the app:
+3. Run the app (Web Only):
    ```bash
-   flutter run
+   flutter run -d chrome
    ```
 
 ### Backend Setup
@@ -87,12 +88,26 @@ textblob==0.18.0
 6. The app automatically stores the **last 10 messages** to maintain chat continuity.
 7. Use the settings to customize personality preferences.
 
+## Upcoming Features 🚀
+
+- Voice Messages
+- Custom AI Personalities
+- Memory-Based Conversations
+- Love Compatibility Prediction 💖
 
 ## Developer Profile 👤
 
 **Full Name:** Johan Joseph\
 **Education/Profession:** CSEA @ AJCE (2024-2028)\
 **Contact Details:** jithu197807@gmail.com
+
+## Contributing 🤝
+
+Feel free to fork the repository and make a Pull Request.
+
+## License 📄
+
+This project is licensed under the MIT License.
 
 ---
 
