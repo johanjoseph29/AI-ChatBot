@@ -90,7 +90,7 @@ textblob==0.18.0
 
 ## App Preview 📸
 
-<img src="https://github.com/johanjoseph29/AI-ChatBot/blob/main/assets/gifmaker_me%20(1).gif" width="250" height="350"/>
+<img src="https://github.com/johanjoseph29/AI-ChatBot/blob/main/assets/gifmaker_me%20(2).gif" width="250" height="350"/>
 
 ## Developer Profile 👤
 
