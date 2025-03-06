@@ -88,11 +88,15 @@ textblob==0.18.0
 6. The app automatically stores the **last 10 messages** to maintain chat continuity.
 7. Use the settings to customize personality preferences.
 
+## App Preview 📸
+
+![CrushAI Preview](assets/app_preview.gif)
 
 ## Developer Profile 👤
 
 **Full Name:** Johan Joseph\
 **Education/Profession:** CSEA @ AJCE (2024-2028)\
 **Contact Details:** jithu197807@gmail.com
+
 ---
 
